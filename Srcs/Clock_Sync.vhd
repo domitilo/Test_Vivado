@@ -4,7 +4,7 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_UNSIGNED.ALL;
-
+--Local comment
 
 entity Clock_Sync is
     Port ( reset : in STD_LOGIC;
